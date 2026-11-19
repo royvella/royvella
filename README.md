@@ -1,16 +1,14 @@
-## Hi there 👋
+# Roy Vella
 
-<!--
-**royvella/royvella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Growth and go-to-market executive | New markets, business lines and strategic partnerships**
 
-Here are some ideas to get you started:
+I build businesses where the path is still taking shape: finding the opportunity, bringing partners and teams together, and getting new ventures to market.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **PayPal:** Built new merchant services and travel opportunities, led the UATP partnership from idea through execution, and launched PayPal Mobile in Europe.
+- **Royal Bank of Scotland:** Built mobile financial services, bringing together strategy, teams and partnerships.
+- **Centrica Hive:** Led the North American launch, building the team, brand presence and retail distribution.
+- **Next CoLab:** Co-Founder and CEO, building Heron to help people see patterns in how they work together.
+
+I’m interested in practical applications of AI, new business models, and the intersection of human judgment and emerging technology.
+
+[Website](https://royvella.vellas.us/) · [LinkedIn](https://www.linkedin.com/in/royvella/) · [Next CoLab](https://nextcolab.com/)
